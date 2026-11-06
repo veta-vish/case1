@@ -1,0 +1,2 @@
+payment_id,order_id,recipient,purpose,amount,currency,status,error_code,idempotency_key,created_at,confirmed_at,correlation_id
+pay_demo_2001,ord_2001,clinic_medservice,Приём кардиолога,3000.00,RUB,DECLINED,CARD_DECLINED,idem_0002,2026-11-06T13:35:17Z,,corr_2001

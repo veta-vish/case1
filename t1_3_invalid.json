@@ -1,0 +1,8 @@
+{
+  "order_id": "ord_1009",
+  "recipient": "clinic_medservice",
+  "purpose": "Приём уролога",
+  "amount": "1500.00",
+  "currency": "USD",
+  "idempotency_key": "idem_0003"
+}

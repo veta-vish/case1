@@ -1,0 +1,8 @@
+{
+  "order_id": "ord_2001",
+  "recipient": "clinic_medservice",
+  "purpose": "Приём кардиолога",
+  "amount": "3000.00",
+  "currency": "RUB",
+  "idempotency_key": "idem_0002"
+}
